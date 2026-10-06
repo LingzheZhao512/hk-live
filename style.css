@@ -1,0 +1,3 @@
+/* WS6: keep long feed text within each card on small screens. */
+.card { min-width: 0; overflow-wrap: anywhere; }
+.weather-body { overflow-wrap: anywhere; }

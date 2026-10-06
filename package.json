@@ -1,0 +1,8 @@
+{
+  "name": "hk-live",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
